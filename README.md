@@ -122,9 +122,9 @@ Capitalize on casual riders’ preference for classic bikes :
 
 ## Tools & Skills Used
 
-SQL for EDA/Cleaning and Processing (BigQuery)
+SQL (EDA/Cleaning and Processing in BigQuery)
 
-Python for EDA (Pandas, Matplotlib)
+Google Sheets (Graphs/charts)
 
 Data Cleaning (handling nulls, merging 12 monthly datasets)
 
