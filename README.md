@@ -7,7 +7,8 @@ Capstone project from the Coursera certification "Google Data Analytics Professi
 ## Google Data Analytics Capstone
 
 This project is my capstone for the Google Data Analytics Professional Certificate.
-This project is based on the 12 previous months of raw data (from January until December 2024 = 5.72 million rides). This project also required :
+This project is based on the 12 previous months of raw data (from January until December 2024 = 5.72 million rides) available here : **[Divvy trip data - official source](https://divvy-tripdata.s3.amazonaws.com/index.html)**. This dataset is provideed by Motivate International Inc. under the City of Chicago's data license.
+This project also required :
 
 Handling the introduction of e-scooters in mid-2024
 
