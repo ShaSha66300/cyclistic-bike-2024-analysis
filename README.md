@@ -10,14 +10,13 @@ This project is my capstone for the Google Data Analytics Professional Certifica
 This project is based on the 12 previous months of raw data (from January until December 2024 = 5.72 million rides) available here : **[Divvy trip data - official source](https://divvy-tripdata.s3.amazonaws.com/index.html)**. This dataset is provideed by Motivate International Inc. under the City of Chicago's data license.
 This project also required :
 
-Handling the introduction of e-scooters in mid-2024
-
 Performing full data cleaning, transformation, and visualization
 
 Following the official data analysis cycle: Ask → Prepare → Process → Analyze → Share → Act
 
 **Project Objective** : identify and understand behavioral differences between **annual members** (users with an annual membership) and **casual riders** (users without an annual membership).
 
+I expanded the scope of this project by handling the introduction of e-scooters in mid-2024 as a bonus for ?
 
 ## Business Objective
 
